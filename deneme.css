@@ -1,0 +1,42 @@
+
+/* bu bir açıklama satırı yine bu satırı kullanarak çok güzel bir şekilde 
+nerde ne yaptığımızı görebileceğiz bu satır css dosyasının çalısmasını engellemez */
+
+
+
+
+
+.navstil{
+    /* margin kutunun çevresindeki boşluğu temsil eder */
+    border-style:solid;
+   
+    font-family: 'Courier New', Courier, monospace;
+    
+    border-color:orange;
+    font-size: 32px;
+   
+    text-align: center;
+
+
+}
+.forarticle{
+    text-align: center;
+
+    list-style-position: inside;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.bts{
+
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+}
+.foto{
+    align-self: center;
+    width: 400px;
+    height: 300px;
+
+
+
+
+}
